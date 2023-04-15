@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result:</string>
+    <string name="eur">EUR</string>
+    <string name="_00_00">00.00</string>
+    <string name="_00_00_0000">00/00/0000</string>
+
+    <string-array name="currencies_array">
+        <item> choose </item>
+        <item> INR </item>
+        <item> USD </item>
+        <item> AUD </item>
+        <item> SAR </item>
+        <item> CNY </item>
+        <item> JPY </item>
+    </string-array>
+  
+
+</resources>
